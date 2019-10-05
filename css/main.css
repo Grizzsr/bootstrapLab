@@ -1,0 +1,50 @@
+html, body {
+    width:100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+
+}
+
+.container {
+    width: 90%;
+}
+
+.header {
+    width: 100%;
+    height: 80px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.carouselContainer {
+    width: 100%;
+}
+
+.img1 {
+    width: 100%;
+
+}
+.mainContainer{
+    height: 100%;
+}
+
+.titleMain {
+    height:100%;
+}
+.jumbotron-fluid {
+    height: 100;
+}
+
+.containerHomeJumbo {
+    height: 100%;
+}
+
+.containerHomeJumbo h1, .containerHomeJumbo p{
+    color: #053186;
+    height: 100%;
+}
+
+.infobox {
+    margin-bottom: 50px;
+}
