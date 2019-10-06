@@ -48,3 +48,15 @@ html, body {
 .infobox {
     margin-bottom: 50px;
 }
+
+.cardContainer {
+    display:flex;
+    flex-wrap: wrap;
+    margin: 20px 50px;
+}
+
+.card{
+    padding-left:($spacer * .5); !important;
+    padding-right:3 * .5) !important;
+
+}
